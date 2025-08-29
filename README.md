@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Graduating at SENAC.<br>👯 I’m looking to collaborate on: Game development/modding.<br>🤝 I’m looking for help with: Modding Valve games.<br>🌱 I’m currently learning: Systems Development Analyst subjects at SENAC.<br>💬 Ask me about: - <br>⚡ Fun fact: Sometimes I like to know how the game works before i start modding it.
+🔭 I’m currently working on: Graduating at SENAC.<br>👯 I’m looking to collaborate on: Game development/modding.<br>🤝 I’m looking for help with: Modding Valve games.<br>🌱 I’m currently learning: Digital Game Development at SENAC.<br>💬 Ask me about: - <br>⚡ Fun fact: Sometimes I like to know how the game works before i start modding it.
 
 
 # 💻 Tech Stack:
